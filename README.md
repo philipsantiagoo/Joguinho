@@ -1,6 +1,6 @@
 # Joguinho Par ou Ímpar 📚
 
-Este pequeno projeto é um programa simples em Python que permite o usuário disputar com a própria máquina um jogo de par ou ímpar. O programa oferece uma interface interativa via console. 
+Este pequeno projeto é um programa simples em Python desenvolvido com o intuito de aprimorar meus estudos a respeito dessa linguagem. Ele permite o usuário disputar com a própria máquina um jogo de par ou ímpar oferecendo uma interface interativa via console. 
 
 ---
 
